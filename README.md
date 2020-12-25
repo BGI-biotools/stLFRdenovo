@@ -30,6 +30,7 @@ It only runs on linux system like Centos or Ubuntu. In order to run stLFRdenovo 
 > mkdir YourProjectName
 > cd YourProjectName
 ```
+This step is just to make sure you start your project in a clean directory, so if you do the first step, you can provide `./` as `out_path` or `./read_name` as `outout_prefix` to the following steps. If you are aware that the path you provide to the following steps are valid (not necessarily created already), you can ignore this step. 
 + 2nd, run the 1-step executable script or run it by 2 steps.
     + 2.1 run the 1-step executable script with raw reads.
     ```
