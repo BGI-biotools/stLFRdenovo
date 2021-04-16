@@ -86,7 +86,7 @@ FFFFFFFFFFFFFFEF>FFFFFFFFFFEFFFFFFFFFFFFFFEFFFFFCEF>FF>GCAFBFFFFFF;7FEFFCFE9FAFF
 
   *The last 42-bp sequence provides the stLFR barcode information within read2*
 
-  *There are 3 acceptable types of stLFR raw read2: 126bp or 142bp or 154bp. If your read2 does not belong to one of them, then it will stop.*
+  *There are 3 acceptable types of stLFR raw read2: 126bp, 130bp, 142bp or 154bp. If your read2 does not belong to one of them, then it will stop.*
 
 ```
 @CL100117953L1C001R001_1/2
